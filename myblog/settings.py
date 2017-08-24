@@ -25,7 +25,7 @@ SECRET_KEY = 'yv*(9$x+19yzc-9!u2a8po0^&9yzh(x$-t3q23al(%(@u@-4tp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gmeloni.pythonanywhere.com']
 
 
 # Application definition
